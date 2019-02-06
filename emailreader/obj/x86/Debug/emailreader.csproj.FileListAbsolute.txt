@@ -1,0 +1,4 @@
+C:\Users\andys\Documents\Projects\emailreader\emailreader\bin\Debug\emailreader.exe
+C:\Users\andys\Documents\Projects\emailreader\emailreader\bin\Debug\emailreader.pdb
+C:\Users\andys\Documents\Projects\emailreader\emailreader\obj\x86\Debug\emailreader.exe
+C:\Users\andys\Documents\Projects\emailreader\emailreader\obj\x86\Debug\emailreader.pdb
